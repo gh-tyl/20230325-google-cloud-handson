@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/translucens/b7cc514a71ef50c096116d235f565768/raw/8dc7a95dbfe15e92b1d62e3f637f67ea2a565721/bqml_ga4_gaming_propensity_to_churn_ja.ipynb
